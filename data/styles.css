@@ -140,4 +140,6 @@
   font-size:18px;
   color:#666666;
 }
+._默认样式 {
+}
 textarea, select, input, button { outline: none; }
