@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="6px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <mask fill="white" id="clip31">
+    <mask fill="white" id="clip63">
       <path d="M 0 3  C 0 4.6568542494  3.3578643765 6  7.5 6  C 11.6421356235 6  15 4.6568542494  15 3  C 15 1.3431457506  11.6421356235 0  7.5 0  C 3.3578643765 0  0 1.3431457506  0 3  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -124 -836 )">
     <path d="M 0 3  C 0 4.6568542494  3.3578643765 6  7.5 6  C 11.6421356235 6  15 4.6568542494  15 3  C 15 1.3431457506  11.6421356235 0  7.5 0  C 3.3578643765 0  0 1.3431457506  0 3  Z " fill-rule="nonzero" fill="#5b8ff9" stroke="none" transform="matrix(1 0 0 1 124 836 )" />
-    <path d="M 0 3  C 0 4.6568542494  3.3578643765 6  7.5 6  C 11.6421356235 6  15 4.6568542494  15 3  C 15 1.3431457506  11.6421356235 0  7.5 0  C 3.3578643765 0  0 1.3431457506  0 3  Z " stroke-width="2" stroke="#ffffff" fill="none" stroke-opacity="0.949019607843137" transform="matrix(1 0 0 1 124 836 )" mask="url(#clip31)" />
+    <path d="M 0 3  C 0 4.6568542494  3.3578643765 6  7.5 6  C 11.6421356235 6  15 4.6568542494  15 3  C 15 1.3431457506  11.6421356235 0  7.5 0  C 3.3578643765 0  0 1.3431457506  0 3  Z " stroke-width="2" stroke="#ffffff" fill="none" stroke-opacity="0.949019607843137" transform="matrix(1 0 0 1 124 836 )" mask="url(#clip63)" />
   </g>
 </svg>
